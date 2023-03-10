@@ -1,0 +1,11 @@
+.head {
+    color: tomato;
+    text-align: center;
+}
+
+.img_place{
+    width: 40vw;
+    height: 30vw;
+    padding-top:9%;
+    padding-left: 30%
+}
